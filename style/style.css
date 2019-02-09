@@ -217,3 +217,27 @@ body {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(145, 232, 66, 0.5)), to(#91e842));
   background-image: linear-gradient(to bottom, rgba(145, 232, 66, 0.5), #91e842);
 }
+
+footer {
+  width: 100%;
+  background: #2E2F31;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.footer_by {
+  color: #fff;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  font-size: 16px;
+}
+.footer_by_text {
+  opacity: 0.6;
+}
+
+.fa-heart {
+  color: red;
+}
